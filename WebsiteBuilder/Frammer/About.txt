@@ -1,0 +1,2 @@
+Framer is tool to design website and export the website.
+  Has tool interface with no code development
